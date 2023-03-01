@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151273202076",
+    "project_id": "react-native-auth-7ac7a",
+    "storage_bucket": "react-native-auth-7ac7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151273202076:android:3cd9259ed7b7bb402ee859",
+        "android_client_info": {
+          "package_name": "com.metmoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151273202076-d32sc2ngvj3kv4iea79ajmn2n3uu8aa6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metmoi",
+            "certificate_hash": "799e9cc0a6a75190ea6c360da2c01c035f2abce6"
+          }
+        },
+        {
+          "client_id": "151273202076-4voov4p6vkvf8htdre8qo8bf7f5m20du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCiS5lBSVYbNC6QO__7mY1JSqGoB5XvGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151273202076-4voov4p6vkvf8htdre8qo8bf7f5m20du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

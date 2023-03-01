@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "d25b35242deb1c6ff888b8162ca2aacc356d3899"
+    },
+    {
+      "path": "assets/fonts/Overpass-Bold.ttf",
+      "sha1": "5955e26572d9c614927863c7789bf29954228ea5"
+    },
+    {
+      "path": "assets/fonts/Overpass-Extrabold-Italic.otf",
+      "sha1": "ffd2b7a869797775a8bcc273ef63837f6936c1e4"
+    },
+    {
+      "path": "assets/fonts/Overpass-Regular.ttf",
+      "sha1": "6a0d66b2f001f6f25520f16ac0854802af00fec7"
+    },
+    {
+      "path": "assets/fonts/Overpass-SemiBold.ttf",
+      "sha1": "66fa473161619c87552bc6dd81281c9b52cdeb3c"
+    },
+    {
+      "path": "assets/fonts/Roboto-BlackItalic.ttf",
+      "sha1": "91158ed880ebf4bb904568ec246e85a07fefcdfb"
+    },
+    {
+      "path": "assets/fonts/SFPro-Display-Bold.otf",
+      "sha1": "100e7b7fd24facbca4db38e6d4d7e01c73b82818"
+    },
+    {
+      "path": "assets/fonts/SFPro-Display-Heavy-Italic.otf",
+      "sha1": "094c4f5f6f14d5964efe8ece373ac918674bd498"
+    },
+    {
+      "path": "assets/fonts/SpaceMono-Regular.ttf",
+      "sha1": "fae3a5a43b50e0408fd61e14383d94a023d332b0"
+    }
+  ]
+}
